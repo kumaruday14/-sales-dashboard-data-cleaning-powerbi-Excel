@@ -1,2 +1,58 @@
 # -sales-dashboard-data-cleaning-powerbi-Excel
 Real-world data analyst project using Excel + Power BI with cleaning and dashboarding
+
+# 🛒 E-Commerce Sales Dashboard with Data Cleaning (Power BI)
+
+This is a real-world Data Analyst project where I cleaned messy Excel data and built a Power BI dashboard to extract sales and customer insights.
+
+---
+
+## 📌 Project Summary
+
+- ✅ Cleaned a messy Excel file containing sales orders
+- 🧹 Removed duplicates, converted dates, stripped currency symbols
+- 🔍 Created new calculated columns (like Year-Month) using DAX
+- 📊 Built an interactive Power BI dashboard with key insights
+
+---
+
+## 📂 Dataset
+
+The raw Excel data included:
+- Order ID
+- Customer Name
+- Order Date
+- Product
+- Category
+- City
+- Order Amount (£)
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel (initial cleaning)
+- Power Query (data transformation)
+- Power BI Desktop (dashboard)
+- DAX (calculated columns)
+
+---
+
+## 📈 Dashboard Features
+
+| Visual           | Insight Provided                      |
+|------------------|----------------------------------------|
+| KPI Cards        | Total Sales, Total Orders              |
+| Line Chart       | Monthly Sales Trend                    |
+| Bar Chart        | Top 5 Customers by Sales               |
+| Donut Chart      | Sales by Product Category              |
+| Slicers          | Interactivity by City and Date Range   |
+
+---
+
+## 📸 Screenshots
+
+> _📷 Add your visuals here by uploading them into your GitHub repo and referencing them like:_
+```markdown
+![Dashboard Overview](screenshots/dashboard.png)
+
