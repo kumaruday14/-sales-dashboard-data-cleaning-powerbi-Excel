@@ -50,9 +50,5 @@ The raw Excel data included:
 
 ---
 
-## 📸 Screenshots
 
-> _📷 Add your visuals here by uploading them into your GitHub repo and referencing them like:_
-```markdown
-![Dashboard Overview](screenshots/dashboard.png)
 
